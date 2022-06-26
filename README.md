@@ -10,4 +10,4 @@
 ```https://drive.google.com/drive/folders/1YIV_A47htZB3R7djZJ8_w_FeZCEpWmAF?usp=sharing```
 
 ### Report:
-```https://docs.google.com/document/d/1dimnjEdT0xDn6YulKJDfyweVGV4fz5Sw1ubX8rhvPdw/edit```
+```https://docs.google.com/document/d/1dimnjEdT0xDn6YulKJDfyweVGV4fz5Sw1ubX8rhvPdw```
